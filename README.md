@@ -2,6 +2,7 @@
 
 *My name is Dennis, I am a young man passionate with coding and Computer programing, I am curretly taking my computer programing course at IYF Academy to help me acheive my dream goal in coding and web designing. I look forward to a successful course to acheive my heart's desires.*
 
+*Some of my learning goals/Interests are as listed below but not limited*
 - Understanding fundamental programming concepts
 - Learning a specific programming language (Python, Java, C++, etc.)
 - Improving problem-solving and algorithmic thinking
