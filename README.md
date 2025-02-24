@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-# my name is Dennis
+# My name is Dennis
+
+# I am a passionate man who is so much interested in Tech knowledge and currently studying at IYF Academy in Computer Programming course.
+
 
 <!--
 **Dennoh-Ma/Dennoh-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
