@@ -2,9 +2,13 @@
 
 # My name is Dennis
 
-# I am a passionate man who is so much interested in Tech knowledge and currently studying at IYF Academy in Computer Programming course.
 
-
+- Understanding fundamental programming concepts
+- Learning a specific programming language (Python, Java, C++, etc.)
+- Improving problem-solving and algorithmic thinking
+- Debugging and troubleshooting code effectively
+- Web development (HTML, CSS, JavaScript etc.)
+- Learning version control with Git and GitHub
 <!--
 **Dennoh-Ma/Dennoh-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
