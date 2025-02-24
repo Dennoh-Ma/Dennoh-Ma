@@ -9,6 +9,11 @@
 - Debugging and troubleshooting code effectively
 - Web development (HTML, CSS, JavaScript etc.)
 - Learning version control with Git and GitHub
+
+  *From my course outline, below are the programming Technologies/Languages that I will be Learning during my Course period.*
+JavaScript, CSS3, HTML5, Node.js, Next.js, Tailwind CSS, React, Express.js, MongoDB, REST APIs, Git, GitHub, VS Code, Linux, Command Line, Codespaces
+
+
 <!--
 **Dennoh-Ma/Dennoh-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
