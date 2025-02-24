@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# My name is Dennis
-
+# My name is Dennis, I am a young man passionate with coding and Computer programing, I am curretly taking my computer programing course at IYF Academy to help me acheive my dream goal in coding and web designing. I look forward to a successful course to acheive my heart's desires.
 
 - Understanding fundamental programming concepts
 - Learning a specific programming language (Python, Java, C++, etc.)
