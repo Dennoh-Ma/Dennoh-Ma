@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Dennis Macharia
 
-*I am passionate with coding and Computer programming, and curretly taking my computer programming course at IYF Academy to help me acheive my dream goal in coding and web development.*
+👨‍💻*I am passionate with coding and Computer programming, and curretly taking my computer programming course at IYF Academy to help me acheive my dream goal in coding and web development.*
 
 🧠 *Some of my learning goals/Interests are as listed below but not limited*
 - Understanding fundamental programming concepts
